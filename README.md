@@ -1,3 +1,4 @@
 # hello-world
-learning git
+learning git.
+
 git is a very useful tool!!
